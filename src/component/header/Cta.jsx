@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../../assets/simply CV 4 project.pdf'
+import CV from '../../assets/MERN stack 4.pdf'
 function Cta() {
   return (
 <div className='cta'>
